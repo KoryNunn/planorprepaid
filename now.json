@@ -1,0 +1,7 @@
+{
+    "name": "planorprepaid",
+    "alias": "planorprepaid.now.sh",
+    "env": {
+        "NODE_ENV":"production"
+    }
+}
