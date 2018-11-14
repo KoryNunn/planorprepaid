@@ -1,6 +1,6 @@
 # Plan or prepaid
 
-## [planorprepaid.now.sh](planorprepaid.now.sh)
+## [planorprepaid.now.sh](https://planorprepaid.now.sh)
 
 # Run
 
