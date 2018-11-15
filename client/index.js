@@ -178,7 +178,7 @@ var ui = fastn('div', { class: 'content' },
     fastn('section', { class: 'interestExplaination' },
         fastn('h2', 'Interest:'),
         fastn('ul',
-            fastn('li', 'If you are buying with cash, you lose the opertunity to earn interest on your savings. Enter the interest you expect to earn per year.'),
+            fastn('li', 'If you are buying with cash, you lose the opportunity to earn interest on your savings. Enter the interest you expect to earn per year.'),
             fastn('li', 'If you are buying with credit, enter the interest rate on the credit card or loan.'),
             fastn('li', 'If you are buying with interest-free credit, enter 0, you lose nothing! :D')
         )
